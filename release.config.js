@@ -1,5 +1,4 @@
 module.exports = {
-  repositoryUrl: 'https://github.com/',
   branches: [
     { name: 'main', channel: 'latest' },
     {
