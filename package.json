@@ -1,0 +1,17 @@
+{
+  "name": "semantic-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/snakeUni/semantic-test.git",
+  "author": "Uni <1025687605@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "echo ********** build",
+    "semantic": "yarn semantic-release"
+  },
+  "dependencies": {
+    "@semantic-release/exec": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "semantic-release": "^19.0.5"
+  }
+}
