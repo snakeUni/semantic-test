@@ -16,6 +16,7 @@ module.exports = {
         prepareCmd: 'yarn build'
       }
     ],
+    '@semantic-release/npm',
     '@semantic-release/git'
   ]
 }
